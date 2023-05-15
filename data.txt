@@ -1,0 +1,1 @@
+ds,de,fe,duration,32,32
